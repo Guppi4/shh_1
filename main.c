@@ -31,7 +31,7 @@ int main()
 	printf("The value of f(x) = 3x + 2X^2 at the %.2f", x);
 	printf(" is:%.4f\n", y2);
 	printf("The value of f(x) = (4x^3)/5 -2x at the %.2f", x);
-	printf(" is:%.4f", y3);
+	printf(" is:%.4f", y3);//thfht
 
 	
 
